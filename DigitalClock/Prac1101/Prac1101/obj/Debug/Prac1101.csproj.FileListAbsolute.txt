@@ -1,0 +1,18 @@
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\bin\Debug\Prac1101.exe.config
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\bin\Debug\Prac1101.exe
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\bin\Debug\Prac1101.pdb
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\obj\Debug\Prac1101.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\obj\Debug\Prac1101.Form1.resources
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\obj\Debug\Prac1101.Properties.Resources.resources
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\obj\Debug\Prac1101.csproj.GenerateResource.Cache
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\obj\Debug\Prac1101.exe
+C:\Users\bcs2\Desktop\SC9544\Prac1101\Prac1101\obj\Debug\Prac1101.pdb
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\bin\Debug\Prac1101.exe.config
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\obj\Debug\Prac1101.exe
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\obj\Debug\Prac1101.pdb
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\obj\Debug\Prac1101.csprojResolveAssemblyReference.cache
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\obj\Debug\Prac1101.Form1.resources
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\obj\Debug\Prac1101.Properties.Resources.resources
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\obj\Debug\Prac1101.csproj.GenerateResource.Cache
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\bin\Debug\Prac1101.exe
+E:\Ruhuna campus practical\Level2\Sem1\Computer Graphics & Image Processing\Prac1101\Prac1101\bin\Debug\Prac1101.pdb
